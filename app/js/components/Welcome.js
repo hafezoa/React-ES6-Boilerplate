@@ -14,7 +14,7 @@ class Welcome extends React.Component {
   }
 
   state = {
-    author: '@roselpadilla',
+    author: '@openDivision',
   };
 
   render() {
